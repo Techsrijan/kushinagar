@@ -6,7 +6,12 @@ adaskdjklas
 multiline comment
 '''
 #import math
-#import math as m
+#import mathv as m
+# i madexvxc this program on 27-08-2024
+'''xvxcv
+vxv
+vvxc
+'''
 from math import *
 a,b,c=45,45,42
 s=(a+b+c)/2
