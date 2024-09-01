@@ -1,0 +1,13 @@
+from turtle import *
+t=Turtle()
+sc=Screen()
+sc.setup(width=500,height=600)
+#sc.bgcolor('yellow')
+#sc.bgpic('best.gif')
+t.pu()
+t.goto(100,100)
+t.pd()
+t.backward(200)
+t.circle(50)
+t.circle(-50)
+done()
