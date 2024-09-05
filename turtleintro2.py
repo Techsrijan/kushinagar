@@ -2,6 +2,7 @@ from turtle import *
 t=Turtle()
 sc=Screen()
 sc.setup(width=500,height=600)
+sc.title("My Turtle")
 #sc.bgcolor('yellow')
 #sc.bgpic('best.gif')
 t.pu()
